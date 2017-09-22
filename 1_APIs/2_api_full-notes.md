@@ -5,6 +5,16 @@ date: "Fall 2015"
 output: html_document
 ---
 
+### Accessing Data: Some Preliminary Considerations
+
+Whenever you're trying to get information from the web, it's very important to first know whether you're accessing it through appropriate means.
+
+The UC Berkeley library has some excellent resources on this topic. Here is a flowchart that can help guide your course of action.
+
+![](figure/scraping_flowchart.png)
+
+You can see the library's licensed sources [here](http://guides.lib.berkeley.edu/text-mining).
+
 ### What is an API?
 
 * API stands for **Application Programming Interface**
