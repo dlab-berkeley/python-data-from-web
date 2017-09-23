@@ -11,7 +11,7 @@ Whenever you're trying to get information from the web, it's very important to f
 
 The UC Berkeley library has some excellent resources on this topic. Here is a flowchart that can help guide your course of action.
 
-![](figure/scraping_flowchart.png)
+![](figures/scraping_flowchart.png)
 
 You can see the library's licensed sources [here](http://guides.lib.berkeley.edu/text-mining).
 
