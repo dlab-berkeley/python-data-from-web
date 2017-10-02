@@ -125,7 +125,7 @@ Most GET request URLs for API querying have three or four components:
 
 4. *Response Format*: a character string indicating how the response should be formatted; usually one of .csv, .json, or .xml
 
-Fortunately, the NYT Article API is [very well documented](http://developer.nytimes.com/docs/read/article_search_api_v2)!
+Fortunately, the NYT Article API is [very well documented](http://developer.nytimes.com/article_search_v2.json)!
 
 ![](figures/nytimes_docs.png)
 
