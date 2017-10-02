@@ -107,7 +107,7 @@ For most APIs, a key or other user credentials are required for any database que
 
 Once you've successfully registered, you will be assigned one or more keys, tokens, or other credentials that must be supplied to the server as part of any API call you make.  To make sure that users aren't abusing their data access privileges (e.g. by making many rapid queries), each set of keys will be given several **rate limits** governing the total number of calls that can be made over certain intervals of time.  For the NYT Article API, we have relatively generous rate limits --- 10 calls per second and 10,000 calls per day.
 
-[NYT Article API Keys](http://developer.nytimes.com/apps/mykeys)
+[NYT Article API Keys](http://developer.nytimes.com/signup)
 
 ![](figures/nytimes_key.png)
 
@@ -134,13 +134,3 @@ Fortunately, the NYT Article API is [very well documented](http://developer.nyti
 See `lecture-code.ipynb` to continue!
 
 Note: We have [supplementary material](Bonus_Materials/1_APIs_in_R.Rmd) to teach you how to construct GET requests in `R`.
-
-
-### Try it out!
-
-http://developer.nytimes.com/io-docs
-
-
-
-
-.
