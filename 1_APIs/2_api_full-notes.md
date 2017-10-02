@@ -23,7 +23,7 @@ You can see the library's licensed sources [here](http://guides.lib.berkeley.edu
 
 * A very common type of API is the Web API, which (among other things) allows users to query a remote database over the internet
 
-* Web APIs take on a variety of formats, but the vast majority adhere to a particular style known as **Reperesentational State Transfer** or **REST**
+* Web APIs take on a variety of formats, but the vast majority adhere to a particular style known as **Representational State Transfer** or **REST**
 
 * What makes these "RESTful" APIs so convenient is that we can use them to query databases using URLs 
 
