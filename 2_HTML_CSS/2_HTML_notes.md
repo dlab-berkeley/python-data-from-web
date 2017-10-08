@@ -148,8 +148,11 @@ Generally speaking, an HTML element has three components:
 * CSS defines how HTML elements are to be displayed
 * HTML came first. But it was only meant to define content, not format it. While HTML contains tags like `<font>` and `<color>`, this is a very inefficient way to develop a website.
 * To solve this problem, CSS was created specifically to display content on a webpage. Now, one can change the look of an entire website just by changing one file.
-* Most web designers litter the HTML markup with tons of `classe`s and `id`s to provide "hooks" for their CSS.
+* Most web designers litter the HTML markup with tons of `class`'s and `id`'s to provide "hooks" for their CSS.
 * You can piggyback on these "hooks" to jump to the parts of the markup that contain the data you need.
+* The infographic [here](http://www.codingdojo.com/blog/html-vs-css-inforgraphic/) shows the difference between HTML and CSS and how together they form a web page:
+
+![infographic-html-css](img/Infographic-HTML-CSS.png)
 
 ## CSS Anatomy: Selectors
 
@@ -202,7 +205,7 @@ What does the following HTML render to?
 > (Hint: There will be multiple solutions for each)
 > 
 > 1. The entire table
-> 2. Just the row containing "Kurstin McCoy"
+> 2. Just the row containing "Kurtis McCoy"
 > 3. Just the elements containing first names
 
 > #### Exercises 2
