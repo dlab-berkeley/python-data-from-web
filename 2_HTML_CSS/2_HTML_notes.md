@@ -211,7 +211,7 @@ What does the following HTML render to?
 > #### Exercises 2
 > 
 > A great resource to practice your CSS selection skills is http://flukeout.github.io/
-> Complete the first 10 execises
+> Complete the first 10 exercises
 
 ## Inspect Element
 
