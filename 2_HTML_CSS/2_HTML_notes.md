@@ -28,8 +28,8 @@ You can see the library's licensed sources [here](http://guides.lib.berkeley.edu
 	* organizational records
 
 * Two kinds of ways to get data off the web
-	* Webscraping - i.e. user-facing websites for humans (this week)
-	* APIs - i.e. application-facing, for computers (next week)
+  * APIs - i.e. application-facing, for computers (last week)
+	* Webscraping - i.e. user-facing websites for humans (this week and next week)
 
 ## Webscraping v. APIs
 
