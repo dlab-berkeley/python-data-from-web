@@ -1,7 +1,7 @@
 # python-data-from-web
 API and web scraping workshops
 
-These workshops were originally developed by [Rochelle Terman](https://github.com/rochelleterman).
+These workshops were originally developed by [Rochelle Terman](https://github.com/rochelleterman) and updated by [Birinder Singh Bhatia](https://github.com/9vinny)
 
 [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org:/repo/dlab-berkeley/python-data-from-web)
 
@@ -28,4 +28,5 @@ We will assume a basic knowledge of Python. If you've taken the D-Lab's Python I
 
 ### Contact
 
-Rochelle Terman: rterman@gmail.com
+Evan Muzzall: evan.muzzall@berkeley.edu
+Birinder Singh Bhatia: bir_singh@berkeley.edu
