@@ -29,4 +29,3 @@ We will assume a basic knowledge of Python. If you've taken the D-Lab's Python I
 ### Contact
 
 Evan Muzzall: evan.muzzall@berkeley.edu  
-Birinder Singh Bhatia: bir_singh@berkeley.edu
