@@ -24,7 +24,7 @@ This workshop will be using the Python programming language. See the software re
 
 We will assume a basic knowledge of Python. If you've taken the D-Lab's Python Intensive, that should be sufficient. 
 
-**Please note that materials are still in development, and will be changing.**
+**Please note that materials are updating.**
 
 ### Contact
 
